@@ -9,5 +9,5 @@ Place and semester where you took a programming course in Java: EVC Fall 2017
 Course number and grade received: CS 46A - A
 Place and semester where you took a course in data structures: EVC Spring 2018
 Course number and grade received: CS 46B - A
-Time it took you to answer the two questions below:
-Did you ask anyone for help? [ ] Yes, [ ] No
+Time it took you to answer the two questions below: 2h and not finish
+Did you ask anyone for help? [ ] Yes, [x] No
